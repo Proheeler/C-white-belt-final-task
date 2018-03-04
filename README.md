@@ -1,1 +1,1 @@
-# C-white-belt-final-task
+# C++ white-belt-final-task
